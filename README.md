@@ -5,3 +5,4 @@ On my journey to learn the secrets of JS, https://www.freecodecamp.org/learn hel
 * Turn an array of numbers into numbers that have had math done on them
 * More numbers = better
 
+https://statisticscalculating.onrender.com
